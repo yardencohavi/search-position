@@ -1,7 +1,7 @@
-const SearchBox = ({searchFiels , searchChange}) => {
+const SearchBox = ({searchChange}) => {
     return(
         <div className="pa2">
-        <input type="search" className="pa3 ba b--green " placeholder="Search" aria-label="Search"
+        <input type="search" className="pa3 ba b--green " aria-label="Search"
         placeholder="search-poses" onChange={searchChange}/>
       </div>
     )

@@ -1,5 +1,5 @@
 
-export const poses = [
+export const data = [
     {
         id:1,
         name:'Chair Pose',
