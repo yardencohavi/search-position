@@ -8,7 +8,7 @@ The apps filter the poses by the pose name that the user entered in the search f
     2. npm start
 ```
 
-Demo: 
+Demo: yardencohavi.github.io/search-position/
 
 ## Table Of Contents
 - [Search-position](#loop-machine)
