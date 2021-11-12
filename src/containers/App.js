@@ -33,7 +33,7 @@ function App(){
             <SearchBox searchChange={onSearchChange}/>
             <Scroll>
                 <CardList poses={filterPosees} />
-                </Scroll>   
+              </Scroll>   
           </div>
     )
 }
