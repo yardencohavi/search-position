@@ -22,6 +22,6 @@ Demo: https://yardencohavi.github.io/search-position/
 
 ## Tech stack
 1. HTML
-2. SCSS
+2. CSS
 3. REACT
 
